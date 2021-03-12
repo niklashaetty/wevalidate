@@ -91,3 +91,4 @@
 /home/niklas/repositories/wevalidate/Wevalidate/obj/Debug/netcoreapp3.1/Wevalidate.dll
 /home/niklas/repositories/wevalidate/Wevalidate/obj/Debug/netcoreapp3.1/Wevalidate.pdb
 /home/niklas/repositories/wevalidate/Wevalidate/obj/Debug/netcoreapp3.1/Wevalidate.genruntimeconfig.cache
+/home/niklas/repositories/wevalidate/Wevalidate/bin/Debug/netcoreapp3.1/LanguageExt.Core.dll

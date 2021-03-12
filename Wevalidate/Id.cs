@@ -1,7 +1,7 @@
 using System;
 using LanguageExt;
 
-namespace Wevalidate
+namespace ClassLibrary1
 {
     public class Id
     {
