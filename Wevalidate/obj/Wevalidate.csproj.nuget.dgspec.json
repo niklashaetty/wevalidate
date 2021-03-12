@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/niklas/repositories/wevalidate/Wevalidate/Wevalidate.csproj": {}
+  },
+  "projects": {
+    "/home/niklas/repositories/wevalidate/Wevalidate/Wevalidate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/niklas/repositories/wevalidate/Wevalidate/Wevalidate.csproj",
+        "projectName": "Wevalidate",
+        "projectPath": "/home/niklas/repositories/wevalidate/Wevalidate/Wevalidate.csproj",
+        "packagesPath": "/home/niklas/.nuget/packages/",
+        "outputPath": "/home/niklas/repositories/wevalidate/Wevalidate/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/niklas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/NKYC-Utility/SysDev/_packaging/SharedLibraries/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.5.26-beta, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
