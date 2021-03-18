@@ -1,7 +1,7 @@
 using System;
 using LanguageExt;
 
-namespace ClassLibrary1
+namespace ClassLibrary1.Model.Example1
 {
     public class Id
     {
@@ -14,8 +14,7 @@ namespace ClassLibrary1
 
         public static Either<string, Id> Validate(string input)
         {
-            Guid valid;
-            if (Guid.TryParse(input, out valid))
+            if (Guid.TryParse(input, out Guid valid))
             {
                 return new Id(valid);
             }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "o4dkhbtiUexV+gGzT43wYbeW3T9+tj5Ggq17sNtXYhoeKn8AuY1Cy+h2l4b8/8zvQ96NqusYIWpoOMWpgD1+mg==",
+  "dgSpecHash": "b0SDNllm0sozPmluBu5QANRVO6eeL1eJQDbCv8/MghYD9uRk1IPuRDWWujBjtmVbVI0SOmyi60m4l77tRjwbmg==",
   "success": true,
   "projectFilePath": "/home/niklas/repositories/wevalidate/Wevalidate/Wevalidate.csproj",
   "expectedPackageFiles": [
@@ -96,8 +96,7 @@
     "/home/niklas/.nuget/packages/xunit.assert/2.4.1/xunit.assert.2.4.1.nupkg.sha512",
     "/home/niklas/.nuget/packages/xunit.core/2.4.1/xunit.core.2.4.1.nupkg.sha512",
     "/home/niklas/.nuget/packages/xunit.extensibility.core/2.4.1/xunit.extensibility.core.2.4.1.nupkg.sha512",
-    "/home/niklas/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "/home/niklas/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "/home/niklas/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512"
   ],
   "logs": []
 }
